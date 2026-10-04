@@ -46,11 +46,10 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 ---
 
 ## 📊 GitHub Statistics: 
-#GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=umorfarukdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=umorfarukdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#Repository Stats & Streak:
+## Repository Stats & Streak:
 ![](https://streak-stats.demolab.com/?user=umorfarukdev&theme=dark&hide_border=false)
 
 ---
