@@ -42,7 +42,6 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/umorfarukridoy) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-faruk-ridoy-139020201) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/umarfarukridoy)
-![](https://github-readme-stats.shion.dev/api?username=umorfarukdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
 
