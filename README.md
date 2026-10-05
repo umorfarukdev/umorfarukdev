@@ -9,17 +9,17 @@ I build responsive web applications using JavaScript, TypeScript, React, Next.js
 ---
 
 ## 👨‍💻 About Me
-1 💻 Full-Stack Developer focused on modern web technologies
-2 🎨 Graphic Designer with experience in Figma, Illustrator, and Photoshop
-3 ⚛️ Building applications with React, Next.js, TypeScript, and JavaScript
-4 🟢 Developing backend applications with Node.js and Express.js
-5 🍃 Working with MongoDB and REST APIs
-6 🎨 Interested in UI/UX design and frontend development
-7 🚀 Deploying projects with Netlify and Vercel
-8 🔐 Exploring authentication, APIs, databases, and application architecture
-9 🐳 Learning and exploring Docker
-10 📚 Always learning new technologies and improving my development skills
-11 🤝 Interested in collaboration, open-source projects, and real-world applications
+1. 💻 Full-Stack Developer focused on modern web technologies
+2. 🎨 Graphic Designer with experience in Figma, Illustrator, and Photoshop
+3. ⚛️ Building applications with React, Next.js, TypeScript, and JavaScript
+4. 🟢 Developing backend applications with Node.js and Express.js
+5. 🍃 Working with MongoDB and REST APIs
+6. 🎨 Interested in UI/UX design and frontend development
+7. 🚀 Deploying projects with Netlify and Vercel
+8. 🔐 Exploring authentication, APIs, databases, and application architecture
+9. 🐳 Learning and exploring Docker
+10. 📚 Always learning new technologies and improving my development skills
+11. 🤝 Interested in collaboration, open-source projects, and real-world applications
 
 ---
 
