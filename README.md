@@ -33,7 +33,7 @@ I build responsive web applications using JavaScript, TypeScript, React, Next.js
 ---
 
 ## 🛠️ TECHNOLOGY STACK:
-Languages:
+# Languages:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -41,14 +41,14 @@ Languages:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-CSS Frameworks & Libraries:
+# CSS Frameworks & Libraries:
 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 
-JavaScript Frameworks & Libraries:
+# JavaScript Frameworks & Libraries:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
@@ -56,12 +56,13 @@ JavaScript Frameworks & Libraries:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 
 
-Deployment Platform:
+# Deployment Platform:
 
 ![Vercel](https://img.shields.io/badge/vercel-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-Database & Model:
+# Database & Model:
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ### **Tools & Others**
