@@ -1,11 +1,25 @@
-# Hi 👋, I'm Umor Faruk Ridoy.
-### 🔭 I build things with JavaScript, React, and Node.js
+👋 Hi, I'm Umor Faruk Ridoy
+💻 Full-Stack Developer | 🎨 Graphic Designer
+
+I’m a passionate Full-Stack Developer and Graphic Designer who enjoys turning ideas into modern, functional, and visually engaging digital experiences.
+
+I build responsive web applications using JavaScript, TypeScript, React, Next.js, Node.js, Express.js, and MongoDB. Alongside development, I create interfaces, graphics, and visual designs using Figma, Adobe Illustrator, and Adobe Photoshop.
 
 ---
 
-## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+👨‍💻 About Me
+💻 Full-Stack Developer focused on modern web technologies
+🎨 Graphic Designer with experience in Figma, Illustrator, and Photoshop
+⚛️ Building applications with React, Next.js, TypeScript, and JavaScript
+🟢 Developing backend applications with Node.js and Express.js
+🍃 Working with MongoDB and REST APIs
+🎨 Interested in UI/UX design and frontend development
+🚀 Deploying projects with Netlify and Vercel
+🔐 Exploring authentication, APIs, databases, and application architecture
+🐳 Learning and exploring Docker
+🔗 Exploring GraphQL
+📚 Always learning new technologies and improving my development skills
+🤝 Interested in collaboration, open-source projects, and real-world applications
 
 ---
 
