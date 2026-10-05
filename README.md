@@ -43,8 +43,8 @@ I build responsive web applications using JavaScript, TypeScript, React, Next.js
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ### **Tools & Others**
-![GitHub](https://img.shields.io/badge/windows-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitHub](https://img.shields.io/badge/vercel-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitHub](https://img.shields.io/badge/windows-%23121011.svg?style=for-the-badge&logo=windows&logoColor=white) 
+![GitHub](https://img.shields.io/badge/vercel-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
