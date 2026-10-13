@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./Banner.png" alt="GitHub Banner" width="100%" />
+</div>
+
+
 👋 Hi, I'm Umor Faruk Ridoy
 
 ### 💻 Full-Stack Developer | 🎨 Graphic Designer
