@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./Banner.png" alt="GitHub Banner" width="100%" />
-</div>
+</div> <br/> <br/>
 
 
 👋 Hi, I'm Umor Faruk Ridoy
