@@ -5,7 +5,7 @@
 
 👋 Hi, I'm Umor Faruk Ridoy
 
-### 💻 Full-Stack Developer | 🎨 Graphic Designer
+### 💻 Full-Stack Web Developer | React.js, Next.js, Node.js, TypeScript & Database | Building Fast, Scalable & SEO-Friendly Web Applications
 
 I’m a passionate Full-Stack Developer and Graphic Designer who enjoys turning ideas into modern, functional, and visually engaging digital experiences.
 
