@@ -3,9 +3,21 @@
 </div> <br/> <br/>
 
 
-👋 Hi, I'm Umor Faruk Ridoy
 
-### 💻 Full-Stack Web Developer | React.js, Next.js, Node.js, TypeScript & Database | Building Fast, Scalable & SEO-Friendly Web Applications
+<h1 align="center">
+  👋 Hi, I'm Umor Faruk Ridoy
+</h1>
+
+<h3 align="center">
+  💻 Full-Stack Web Developer
+</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Fast+%26+Scalable+Web+Apps" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Fast+%26+Scalable+Web+Apps" />
+</p>
 
 I’m a passionate Full-Stack Developer and Graphic Designer who enjoys turning ideas into modern, functional, and visually engaging digital experiences.
 
