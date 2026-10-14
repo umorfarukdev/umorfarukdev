@@ -4,15 +4,11 @@
 
 
 
-<h1 align="center">
+<h1 align="center" size="36px">
   👋 Hi, I'm Umor Faruk Ridoy
 </h1>
-
-<h3 align="center">
-  💻 Full-Stack Web Developer
-</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Fast+%26+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer" />
 </p>
 
 <p align="center">
