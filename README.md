@@ -64,9 +64,8 @@ I build responsive web applications using JavaScript, TypeScript, React, Next.js
 
 
 ### CSS Frameworks & Libraries:
-![Skills](https://skillicons.dev/icons?i=bootstrap,mui,tailwind)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap5,daisy,material" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui" />
 </p>
 
 
@@ -74,11 +73,6 @@ I build responsive web applications using JavaScript, TypeScript, React, Next.js
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
 </p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,figma,docker" />
-</p>
-
 
 ### Deployment Platform:
 <p align="left">
@@ -92,24 +86,8 @@ I build responsive web applications using JavaScript, TypeScript, React, Next.js
 </p>
 
 ### **Tools & Others**
-![Windows](https://img.shields.io/badge/windows-%23121011.svg?style=for-the-badge&logo=windows&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-### test
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,postman" />
-</p>
-
-<h3 align="left">🛠️ Tools & Platforms:</h3>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
 </p>
 
 ---
