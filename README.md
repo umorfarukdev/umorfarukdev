@@ -48,34 +48,22 @@ I build responsive web applications using JavaScript, TypeScript, React, Next.js
 ---
 
 ## 🌐 Connect With Me  
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/umarfarukridoy) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1556246162300731455) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/umorfarukridoy) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-faruk-ridoy-139020201) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/umarfarukridoy)
-
 <p align="left">
-
-<a href="https://behance.net/umarfarukridoy">
-  <img src="https://cdn.simpleicons.org/behance/1769FF" width="50" height="50"/>
+<a href="https://www.linkedin.com/in/umor-faruk-ridoy">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="50" height="50"/>
 </a>
 
 <a href="https://discord.gg/1556246162300731455">
   <img src="https://cdn.simpleicons.org/discord/5865F2" width="50" height="50"/>
 </a>
 
+<a href="https://behance.net/umarfarukridoy">
+  <img src="https://cdn.simpleicons.org/behance/1769FF" width="50" height="50"/>
+</a>
+
 <a href="https://facebook.com/umorfarukridoy">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="50" height="50"/>
 </a>
-
-<a href="https://linkedin.com/in/umar-faruk-ridoy-139020201">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50"/>
-</a>
-
-<a href="https://pinterest.com/umarfarukridoy">
-  <img src="https://cdn.simpleicons.org/pinterest/E60023" width="50" height="50"/>
-</a>
-
 </p>
 
 ---
