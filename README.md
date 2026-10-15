@@ -64,9 +64,7 @@ I build responsive web applications using JavaScript, TypeScript, React, Next.js
 
 
 ### CSS Frameworks & Libraries:
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=bootstrap,mui,tailwind)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap5,daisy,material" />
 </p>
