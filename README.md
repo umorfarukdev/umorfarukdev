@@ -79,6 +79,10 @@ I build responsive web applications using JavaScript, TypeScript, React, Next.js
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,figma,docker" />
+</p>
+
 
 ### Deployment Platform:
 
