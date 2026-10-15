@@ -50,7 +50,7 @@ I build responsive web applications using JavaScript, TypeScript, React, Next.js
 ## 🌐 Connect With Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/umor-faruk-ridoy">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50"/>
 </a>
 
 <a href="https://discord.gg/1556246162300731455">
