@@ -58,40 +58,37 @@ I build responsive web applications using JavaScript, TypeScript, React, Next.js
 
 ## 🛠️ TECHNOLOGY STACK:
 ### Languages:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
 
 
 ### CSS Frameworks & Libraries:
-
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 
 ### JavaScript Frameworks & Libraries:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,figma,docker" />
 </p>
 
 
 ### Deployment Platform:
-
-![Vercel](https://img.shields.io/badge/vercel-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</p>
 
 
 ### Database & Model:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
 ### **Tools & Others**
 ![Windows](https://img.shields.io/badge/windows-%23121011.svg?style=for-the-badge&logo=windows&logoColor=white) 
@@ -99,6 +96,10 @@ I build responsive web applications using JavaScript, TypeScript, React, Next.js
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+### test
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,postman" />
+</p>
 
 <h3 align="left">🛠️ Tools & Platforms:</h3>
 
