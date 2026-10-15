@@ -36,12 +36,14 @@ I build responsive web applications using JavaScript, TypeScript, React, Next.js
 - 📚 Exploring JWT, Security & Deployment
 - 🚀 Building Full Stack MERN Applications
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umorfarukdev&theme=github-dark)]
+
 ---
 
 ## 📍 Location
 
-📍 Panchagarh, Rangpur, Bangladesh
-📧 Email: umarfarukridoy00@gmail.com
+- 📍 Location: Panchagarh, Rangpur, Bangladesh
+- 📧 Email: umarfarukridoy00@gmail.com
 
 ---
 
