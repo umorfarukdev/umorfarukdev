@@ -54,6 +54,16 @@ I build responsive web applications using JavaScript, TypeScript, React, Next.js
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-faruk-ridoy-139020201) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/umarfarukridoy)
 
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=github,git,vscode,windows" height="45"/>
+
+<img src="https://cdn.simpleicons.org/behance/1769FF" height="45"/>
+<img src="https://cdn.simpleicons.org/discord/5865F2" height="45"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="45"/>
+
+</p>
+
 ---
 
 ## 🛠️ TECHNOLOGY STACK:
